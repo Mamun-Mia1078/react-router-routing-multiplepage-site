@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mamun-Mia1078/react-router-routing-multiplepage-site/static/css/main.db5d0b95.css",
+    "main.js": "/Mamun-Mia1078/react-router-routing-multiplepage-site/static/js/main.8f73b7a5.js",
+    "index.html": "/Mamun-Mia1078/react-router-routing-multiplepage-site/index.html",
+    "main.db5d0b95.css.map": "/Mamun-Mia1078/react-router-routing-multiplepage-site/static/css/main.db5d0b95.css.map",
+    "main.8f73b7a5.js.map": "/Mamun-Mia1078/react-router-routing-multiplepage-site/static/js/main.8f73b7a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5d0b95.css",
+    "static/js/main.8f73b7a5.js"
+  ]
+}
